@@ -93,7 +93,7 @@
 </div>
 
 <script>
-const API_URL="https://script.google.com/macros/s/AKfycbwuLZbtIED64GC6MzsF09KmGMO8WmjChTNEFxAykg8gG8jR7L215PTBfwOJPdAjdJOp/exec";
+const API_URL=https://script.google.com/macros/s/AKfycbwuLZbtIED64GC6MzsF09KmGMO8WmjChTNEFxAykg8gG8jR7L215PTBfwOJPdAjdJOp/exec;
 let data=[],chart=null;
 const $=i=>document.getElementById(i);
 
